@@ -3,32 +3,31 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@margarinee_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:margaritaromejko27@gmail.com) 
+[<img width="100" height="100" alt="icons8-telegram-100" src="https://github.com/user-attachments/assets/babc289f-81b4-46b6-88c7-6ccb204f6b81" />](t.me/margarinee_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:margaritaromejko27@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
+<img width="100" height="100" alt="icons8-c-100" src="https://github.com/user-attachments/assets/7e533aad-1e19-4ae9-b6c8-a731127ba98c" />
+<img width="100" height="100" alt="icons8-c-100-2" src="https://github.com/user-attachments/assets/dd085835-bf71-48c7-b51f-69d13fda6a8e" />
+
 # Other:
-<img width="48" height="48" alt="icons8-corel-draw-2021-48" src="https://github.com/user-attachments/assets/835a8898-66d8-4a24-9023-7198a5c1a777" />
+<img width="100" height="100" alt="icons8-corel-draw-2021-100" src="https://github.com/user-attachments/assets/addc9a7c-fce5-4741-bd96-2c6ba36e8b55" />
+
+# My codes:
+My programs will be here soon, but for now it's just a cat. 
+
+![котик](https://github.com/user-attachments/assets/7a4add2d-fecb-48d2-8380-17fcb1997851)
+
+# Photo-portfolio
+[<img width="100" height="100" alt="icons8-yandex-drive-100" src="https://github.com/user-attachments/assets/fe42735d-f596-45b9-a266-a42761bc9cf6" />](https://disk.yandex.ru/a/ZpmNbNnO4hD3A) 
+
+ ↕ just my favorite photos that I took 
+
+
+<img width="300" height="450" alt="маленкий фото2" src="https://github.com/user-attachments/assets/2dce469b-58d3-43da-ad7d-b4f439093676" />
+<img width="400" height="267" alt="маленкий фото3" src="https://github.com/user-attachments/assets/ac418c5b-8c1a-417e-9fc2-6f839c4d774b" />
+<img width="450" height="300" alt="маленкий фото1" src="https://github.com/user-attachments/assets/120cfc75-20e6-4414-8202-e4a8efd8207e" />
 
  # 📊 GitHub Stats:
 ![](blob:https://gprm.itsvg.in/d33eb51c-fc00-45e8-8438-7b77c029b5f1)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=margarine-11&theme=date_night&hide_border=true)<br/>
 ![](blob:https://gprm.itsvg.in/f5749c91-a257-4557-af42-2a46cc91f3ee)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=margarine-11&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-
-
-
-
-
-
-![](blob:https://gprm.itsvg.in/c60e6a2b-cc5e-4229-a543-035a48945670)
-
----
-[![](https://visitcount.itsvg.in/api?id=margarine-11&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
