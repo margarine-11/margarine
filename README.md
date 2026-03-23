@@ -8,8 +8,7 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 # Other:
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black)
- ![CorelDRAW]() 
+ ![CorelDRAW] 
  # 📊 GitHub Stats:
 ![](blob:https://gprm.itsvg.in/d33eb51c-fc00-45e8-8438-7b77c029b5f1)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=margarine-11&theme=date_night&hide_border=true)<br/>
