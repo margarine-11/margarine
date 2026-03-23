@@ -8,7 +8,7 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 # Other:
-![корел](https://github.com/user-attachments/assets/c2f30bed-f19b-4537-ad2e-c602527f7e90)
+<img width="48" height="48" alt="icons8-corel-draw-2021-48" src="https://github.com/user-attachments/assets/835a8898-66d8-4a24-9023-7198a5c1a777" />
  # 📊 GitHub Stats:
 ![](blob:https://gprm.itsvg.in/d33eb51c-fc00-45e8-8438-7b77c029b5f1)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=margarine-11&theme=date_night&hide_border=true)<br/>
@@ -16,6 +16,7 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=margarine-11&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 
