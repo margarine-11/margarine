@@ -1,3 +1,5 @@
+
+![2026-03-24 01-55-08](https://github.com/user-attachments/assets/d3fb6d21-cc1c-455a-9518-e91b2a663fbc)
 # 💫 About Me:
 I am a student of the Polar State University 🧈<br>A young programmer (and also a young photographer and a young artist in his spare time 🥠)
 
