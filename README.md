@@ -32,4 +32,3 @@ My programs will be here soon, but for now it's just a cat.
 
 
 # The end?
-![вс заставка2](https://github.com/user-attachments/assets/6cb5a222-dcae-4f45-87aa-769fb1341375)
