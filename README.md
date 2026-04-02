@@ -5,8 +5,7 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 
 
 ## 🌐 Contact:
-<a href="https://t.me/margarinee_11"> <img width="100" height="100" alt="icons8-telegram-100" src="https://github.com/user-attachments/assets/babc289f-81b4-46b6-88c7-6ccb204f6b81" />
-<a href="margaritaromejko27@gmail.com"> <img width="100" height="100" alt="icons8-gmail-100" src="https://github.com/user-attachments/assets/e7558e16-1432-46d6-be8e-fa90ec80b3b0" />
+<a href="https://t.me/margarinee_11"> <img width="100" height="100" alt="icons8-telegram-100" src="https://github.com/user-attachments/assets/babc289f-81b4-46b6-88c7-6ccb204f6b81" /> 
 
 # 💻 Tech Stack:
 <img width="100" height="100" alt="icons8-c-100" src="https://github.com/user-attachments/assets/7e533aad-1e19-4ae9-b6c8-a731127ba98c" />
