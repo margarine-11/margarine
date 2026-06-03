@@ -14,10 +14,6 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 # Other:
 <img width="100" height="100" alt="icons8-corel-draw-2021-100" src="https://github.com/user-attachments/assets/addc9a7c-fce5-4741-bd96-2c6ba36e8b55" />
 
-# My codes:
-My programs will be here soon, but for now it's just a cat. 
-
-![котик](https://github.com/user-attachments/assets/7a4add2d-fecb-48d2-8380-17fcb1997851)
 
 # Photo-portfolio
 <a href="https://disk.yandex.ru/a/ZpmNbNnO4hDd3A"> <img width="100" height="100" alt="icons8-yandex-drive-100" src="https://github.com/user-attachments/assets/fe42735d-f596-45b9-a266-a42761bc9cf6" /> 
