@@ -13,6 +13,8 @@ I am a student of the Polar State University 🧈<br>A young programmer (and als
 
 # Other:
 <img width="100" height="100" alt="icons8-corel-draw-2021-100" src="https://github.com/user-attachments/assets/addc9a7c-fce5-4741-bd96-2c6ba36e8b55" />
+<img width="100" height="100" alt="icons8-photoshop-100" src="https://github.com/user-attachments/assets/f555c5a8-48ed-44f0-87ad-605c0a2667f3" />
+
 
 
 # Photo-portfolio
